@@ -42,6 +42,13 @@ npm run lint
 npm run electron:build
 ```
 
+### NOTES:
+
+```
+- Screenshot is not working properly, i´ll fix it in another commit.
+- The app it´s only in one tone.
+```
+
 ### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
