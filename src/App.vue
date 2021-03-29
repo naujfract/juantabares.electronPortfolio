@@ -117,7 +117,7 @@ export default {
         {
           icon: "",
           text: "LinkedIn",
-          url: "https://github.com/naujfract",
+          url: "https://www.linkedin.com/in/jftabares/",
         },
         {
           icon: "",
@@ -128,7 +128,7 @@ export default {
         {
           icon: "",
           text: "Resume",
-          url: "https://github.com/juantabares",
+          url: "https://github.com/naujfract/juantabares.electronPortfolio/blob/main/src/assets/pdf/JUAN_FRANCISCO_TABARES%20_%202020.pdf",
         },
       ],
       profileQrData: {
